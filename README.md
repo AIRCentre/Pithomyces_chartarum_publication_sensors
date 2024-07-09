@@ -3,4 +3,8 @@ Repository supporting the publication: Assessing the presence of Pithomyces char
 
 DOI: 
 
-Abstract: 
+##### *Abstract*
+**
+
+
+[Link to journal](https://link-url-here.org)
